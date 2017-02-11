@@ -1,9 +1,11 @@
 # TODO
 
 ## Theory
- - [ ] **OOP principles**: http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
- - [ ] **SOLID**: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
- - [ ] **Unit Testing**
+ - **OOP principles**: 
+   - [ ] http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
+ - **SOLID**: 
+   - [ ] https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+ - **Unit Testing**
  - **REST**
    - [ ] principles
    - [ ] http verbs & use cases
@@ -16,7 +18,7 @@
    - [ ] Module Pattern: what is it and why/when would you use it?
    - **TypeScript**
      - [ ] Typescript Fundamentals (Dan Wahlin, John Papa): https://app.pluralsight.com/library/courses/typescript/table-of-contents
-   - [ ] **WebPack**
+   - **WebPack**
    
 ## Frameworks
  - **ASP.NET MVC**
