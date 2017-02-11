@@ -2,10 +2,15 @@
 
 ## Theory
  - **OOP principles**: 
-   - [ ] http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
+   - [ ] OOP principles in theory with examples
+   - documentation references: 
+     - http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
  - **SOLID**: 
-   - [ ] https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
- - **Unit Testing**
+   - [ ] [S.O.L.I.D in theory and with violations and examples](https://github.com/learnasyougo/S.O.L.I.D) *#workinprogress*
+   - documentation references: 
+       - https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+       - https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+ - **Unit Testing/TDD**
  - **REST**
    - [ ] principles
    - [ ] http verbs & use cases
