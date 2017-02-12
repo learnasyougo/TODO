@@ -2,9 +2,11 @@
 
 ## Theory
  - **OOP principles**: 
-   - [ ] OOP principles in theory with examples
+   - [x] [OOP principles in theory with examples](https://github.com/learnasyougo/OOP-Pillars.git)
    - documentation references: 
      - http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
+     - http://www.c-sharpcorner.com/UploadFile/e6a07d/pillars-of-oop/
+     - http://geekswithblogs.net/NETCode/archive/2013/08/07/the-basics---four-pillars-of-object-oriented-programming.aspx
  - **SOLID**: 
    - [x] [S.O.L.I.D in theory and with violations and examples](https://github.com/learnasyougo/S.O.L.I.D)
    - documentation references: 
