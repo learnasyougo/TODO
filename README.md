@@ -20,7 +20,7 @@
 ## Languages
  - **JavaScript**
    - [ ] JavaScript Fundamentals: https://github.com/pluralsight-courses/jscript-fundamentals
-   - [ ] JavaScript Hoisting: https://github.com/learnasyougo/TODO/blob/master/js/hoisting/
+   - [x] JavaScript Hoisting: https://github.com/learnasyougo/TODO/blob/master/js/hoisting/
      - documentation and references:
        - http://www.w3schools.com/js/js_hoisting.asp
    - [ ] IIFE: what is it and why/when would you use it? `((function() {})() ;)` 
