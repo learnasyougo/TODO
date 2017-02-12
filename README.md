@@ -6,10 +6,11 @@
    - documentation references: 
      - http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
  - **SOLID**: 
-   - [ ] [S.O.L.I.D in theory and with violations and examples](https://github.com/learnasyougo/S.O.L.I.D) *#workinprogress*
+   - [x] [S.O.L.I.D in theory and with violations and examples](https://github.com/learnasyougo/S.O.L.I.D)
    - documentation references: 
        - https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
        - https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+       - https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents
  - **Unit Testing/TDD**
  - **REST**
    - [ ] principles
