@@ -19,7 +19,7 @@
  
 ## Languages
  - **JavaScript**
-   - [ ] JavaScript Fundamentals: https://github.com/pluralsight-courses/jscript-fundamentals
+   - [x] JavaScript Fundamentals: https://github.com/pluralsight-courses/jscript-fundamentals
    - [x] JavaScript Hoisting: https://github.com/learnasyougo/TODO/blob/master/js/hoisting/
      - documentation and references:
        - http://www.w3schools.com/js/js_hoisting.asp
