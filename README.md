@@ -12,16 +12,17 @@
    - documentation references: 
        - https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
        - https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
-       - https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents
- - **Unit Testing/TDD**
+       - https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents 
  - **REST**
    - [ ] principles
    - [ ] http verbs & use cases
  
 ## Languages
  - **JavaScript**
-   - [ ] JavaScript Fundamentals 
-   - [ ] JavaScript Hoisting
+   - [ ] JavaScript Fundamentals: https://github.com/pluralsight-courses/jscript-fundamentals
+   - [ ] JavaScript Hoisting: https://github.com/learnasyougo/TODO/blob/master/js/hoisting/
+     - documentation and references:
+       - http://www.w3schools.com/js/js_hoisting.asp
    - [ ] IIFE: what is it and why/when would you use it? `((function() {})() ;)` 
    - [ ] Module Pattern: what is it and why/when would you use it?
    - **TypeScript**
