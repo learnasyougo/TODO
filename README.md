@@ -44,6 +44,7 @@
  - [ ] **MediatR**
  - **Angular**
    - [ ] Tour of Heroes Tutorial: https://angular.io/docs/ts/latest/tutorial/
+   - [x] AngularJS: Get Started: https://github.com/pluralsight-courses/angularjs-get-started
    - [ ] Angular Fundamentals (Jon Eames & Jim Cooper): https://app.pluralsight.com/library/courses/angularjs-fundamentals/table-of-contents
    - [ ] Angular 2 Fundamentals (dezelfde heren): https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents
    - Styleguides
