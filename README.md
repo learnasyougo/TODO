@@ -23,8 +23,8 @@
    - [x] JavaScript Hoisting: https://github.com/learnasyougo/TODO/blob/master/js/hoisting/
      - documentation and references:
        - http://www.w3schools.com/js/js_hoisting.asp
-   - [ ] IIFE: what is it and why/when would you use it? `((function() {})() ;)` 
-   - [ ] Module Pattern: what is it and why/when would you use it?
+   - [x] IIFE: what is it and why/when would you use it? `((function() {})() ;)` - see https://github.com/pluralsight-courses/angularjs-get-started/blob/master/001-introduction/001-starter/script.js
+   - [x] Module Pattern: what is it and why/when would you use it? - see https://github.com/pluralsight-courses/angularjs-get-started/blob/master/001-introduction/001-starter/script.js
    - **TypeScript**
      - [ ] Typescript Fundamentals (Dan Wahlin, John Papa): https://app.pluralsight.com/library/courses/typescript/table-of-contents
    - **WebPack**
